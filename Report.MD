@@ -1,6 +1,6 @@
-# Rofiah Facility Bookings Website — Power Pages + Dataverse
+# Rofiah Facility Bookings Website — Power Pages + Copilot Studio
 
-A no-code facility booking website built entirely with Microsoft Power Pages and Dataverse. Clients can browse and book available spaces, including conference rooms, event halls, office spaces, and sports facilities — through a clean, professional web portal. A built-in issue submission form allows clients to report facility problems directly from their user dashboard.
+A no-code facility booking website built entirely with Microsoft Power Pages and Dataverse. Clients can browse and book available spaces, including conference rooms, event halls, office spaces, and sports facilities, through a clean, professional web portal. A built-in issue submission form allows clients to report facility problems directly from their user dashboard.
 
 ---
 
@@ -41,7 +41,7 @@ I started by designing the data model in **Microsoft Dataverse** using Copilot S
 
 Each facility record holds details like name, type, capacity, and availability status. The Booking table links a client to a specific facility with a date and time slot. The Issue Report table captures client-submitted problems, including a description, the affected facility, and submission date.
 
-With the data model in place, I set up the **Power Pages site**, configured the site's pages, and connected it to the Dataverse environment. I applied custom branding — logo, colour scheme, and layout — to give the portal a professional look consistent with the Rofiah Facility identity.
+With the data model in place, I set up the **Power Pages site**, configured the site's pages, and connected it to the Dataverse environment. I applied custom branding — logo, colour scheme, and layout, to give the portal a professional look consistent with the Rofiah Facility identity.
 
 ---
 ![My Image](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/Power%20Pages_1.png?raw=true)
@@ -57,6 +57,10 @@ Access to the dashboard is protected by Power Pages' built-in authentication, en
 ![My Image](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/power%20page%202.png?raw=true)
 
 ![My Image](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/power%20page%202.png?raw=true)
+
+![My Image](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/Facility%20Form.png?raw=true)
+
+![My Image](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/Facility%20Form%20Creation%202.png?raw=true)
 
 [Watch the snapshot Video of the website](https://drive.google.com/file/d/1XmmaANCHwK_EyUodV7Zs0HKfWExk6Nmn/view?usp=sharing)
 
