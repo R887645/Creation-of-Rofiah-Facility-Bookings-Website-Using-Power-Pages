@@ -87,7 +87,7 @@ Access to the dashboard is protected by Power Pages' built-in authentication, en
 | Booking form | `booking-form.png` |
 | User dashboard | `dashboard.png` |
 | Issue submission form | `issue-form.png` |
-| Dataverse tables | `dataverse.png` |
+| Copilot | `copilot.png` |
 
 ---
 
